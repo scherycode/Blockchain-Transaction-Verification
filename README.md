@@ -1,4 +1,4 @@
-# Blockchain Audit Verification System
+# Blockchain Transaction Verification System
 
 A proof-of-concept terminal application demonstrating real-time, decentralized transaction auditing using SHA-256 hashing.
 
