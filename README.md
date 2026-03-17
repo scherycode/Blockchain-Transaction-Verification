@@ -1,4 +1,4 @@
-# BlueBlock — Blockchain Audit Verification System
+# Blockchain Audit Verification System
 
 A proof-of-concept terminal application demonstrating real-time, decentralized transaction auditing using SHA-256 hashing.
 
